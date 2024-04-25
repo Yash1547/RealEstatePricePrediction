@@ -10,7 +10,6 @@ This project aims to build a machine learning model for predicting real estate p
 - **Machine Learning Model:** A regression model (e.g., Linear Regression, Lasso Regression, or Decision Tree Regression) is trained to predict real estate prices.
 - **Flask Backend:** The model is deployed as a backend server using Flask, allowing users to interact with it via HTTP requests.
 - **Web Interface:** A simple web interface is created using HTML, CSS, and JavaScript to provide a user-friendly experience for entering property details and viewing predicted prices.
-
 ## Usage
 1. Clone the repository:
    ```bash
