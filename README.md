@@ -15,3 +15,18 @@ This project aims to build a machine learning model for predicting real estate p
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/real-estate-price-prediction.git
+2. Install dependencies:
+   ```terminal
+   pip install -r requirements.txt
+3. Run the Flask application:
+   ```terminal
+   python app.py
+
+##Dataset
+The dataset used in this project contains real estate listings with various features such as location, size, and price. It was obtained from Kaggle and preprocessed for use in the machine learning model.
+
+##Contributions
+Contributions to this project are welcome! If you have any ideas for improvements or find any issues, feel free to open an issue or submit a pull request.
+
+##License
+This project is licensed under the MIT License.
