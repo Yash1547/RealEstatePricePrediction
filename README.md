@@ -1,2 +1,2 @@
 ## RealEstatePricePrediction
-Predict real estate prices using machine learning and Flask. Clean, train, and deploy a model for accurate estimates. User-friendly web interface for easy input and instant results.
+This project aims to build a machine learning model for predicting real estate prices based on various features such as location, square footage, number of bedrooms, and number of bathrooms. The model is trained on a dataset obtained from a real estate agency, and it is deployed as a web application using Flask framework. Users can input property details, and the model will provide an estimated price based on the input.
